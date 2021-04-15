@@ -23,7 +23,7 @@ GCSEs
   
 ## Projects 💻
 
-**Documentary series** |_Adobe After Effects, Final Cut Pro X, Javascript_ (Sept. 2020 -- Present)
+**Documentary series** | _Adobe After Effects, Final Cut Pro X, Javascript_ | (Sept. 2020 -- Present)
   
   
 
