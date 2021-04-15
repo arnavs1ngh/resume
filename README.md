@@ -2,7 +2,7 @@
 
 _1st Year Mathematics MSc Student at Imperial College London_ <br>
 
-[Email](mailto:arnav.singh20@imperial.ac.uk)/ [LinkedIn](https://https://www.linkedin.com/in/arnav-singh-526b671b4//)
+[Email](mailto:arnav.singh20@imperial.ac.uk) | [LinkedIn](https://https://www.linkedin.com/in/arnav-singh-526b671b4//) | [Instagram](https://www.instagram.com/arnav_singh/)
 
 ## Education 📚
 
