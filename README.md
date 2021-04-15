@@ -15,11 +15,11 @@ _1st Year Mathematics MSc Student at Imperial College London_ <br>
 A-levels
   - Achieved A*A*AA in Maths, Further Maths, Physics and Chemistry respectively
 
-**Heckmondwike Grammar School**
+**Heckmondwike Grammar School** |_(2013-2018)_ | Heckmondwike, West York. <br>
 GCSEs
-  -8 grade 9s, 1 grade 8,1 grade 7 and an A*
-  -Additional Maths FSMQ - A
-  -Participated in super-curriculars sch as UKMT challenges
+  - 8 grade 9s, 1 grade 8,1 grade 7 and an A*
+  - Additional Maths FSMQ - A
+  - Participated in super-curriculars sch as UKMT challenges
   
 ## Projects 💻
 
