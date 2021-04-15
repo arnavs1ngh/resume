@@ -31,7 +31,7 @@ Currently working on a documentary series, centered around visualising the impac
 
 **Music Production** | _Logic Pro X, Guitar_ | (2018 - Present) <br>
 Producing music, often in collaboration with others, of a variety of genres <br>
-You can listen to a few beats I have made [here](https://soundcloud.com/arnav-singh-935815474)
+You can listen to a few beats I have made [here](https://soundcloud.com/arnav-singh-935815474/sets/if-you-come-up-for-an)
 
 ## Experience
 
