@@ -29,6 +29,11 @@ Currently working on a documentary series, centered around visualising the impac
 - Research + Communication - Compiling sources to write and voice over scripts
 - Using the p5.js library to create data visualisations
 
+**Maths Visualisations** <br>
+
+- Monte Carlo Pi estimations in 2D and 3D.
+- 
+
 **Music Production** | _Logic Pro X, Guitar_ | (2018 - Present) <br>
 Producing music, often in collaboration with others, of a variety of genres <br>
 You can listen to a few beats I have made [here](https://soundcloud.com/arnav-singh-935815474/sets/if-you-come-up-for-an)
