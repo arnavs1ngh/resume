@@ -23,48 +23,28 @@ GCSEs
   
 ## Projects 💻
 
-**Documentary series** | _Adobe After Effects, Final Cut Pro X, Javascript_ | (Sept. 2020 -- Present)
-  
-  
+**Documentary series** | _Adobe After Effects, Final Cut Pro X, Javascript_ | (Sept. 2020 -- Present) <br>
+Currently working on a documentary series, centered around visualising the impact of physical geography on geo-politics. <br>
+- Creating 3D animations, using open source height data and other geo data
+- Research + Communication - Compiling sources to write and voice over scripts
+- Using the p5.js library to create data visualisations
+
+**Music Production** | _Logic Pro X, Guitar_ | (2018 - Present) <br>
+Producing music, often in collaboration with others, of a variety of genres <br>
+You can listen to a few beats I have made [here](https://soundcloud.com/arnav-singh-935815474)
+
+## Experience
+
+**Founder** | Starting my own small tuition business | _(2017 - Present)_ <br>
+- Centered around tutoring other students for variety of exams, 11+, GCSEs, A-Levels etc.
+- Teaching groups up to 40 students
+- Organisational and financial skills developed
+
+**Pitching** | Meal Prep Company | _(Feb. - March 2020)_
+Organised and created a successful business plan and pitch which **secured funding from top venture capitalists.**
 
 
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/arnavs1ngh/resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arnavs1ngh/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Volunteering**
+- Cancer Research UK - Raised money in charity runs
+- The Howard Foundation: Raised money through the NCS foundation, receiving special
+commendations for my Leadership skills
