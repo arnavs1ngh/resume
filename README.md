@@ -13,7 +13,7 @@ _1st Year Mathematics MSc Student at Imperial College London_ <br>
 
 **Greenhead College** | _(2018-2020)_ | Huddersfield, West York. <br>
 A-levels
-  - Achieved A*A*AA in Maths, Further Maths, Physics and Chemistry respectively
+  - Achieved A\*A\*AA in Maths, Further Maths, Physics and Chemistry respectively
 
 **Heckmondwike Grammar School** |_(2013-2018)_ | Heckmondwike, West York. <br>
 GCSEs
