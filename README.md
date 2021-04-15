@@ -1,4 +1,4 @@
-# Arnav Singh
+# Arnav Singh 🐒
 
 _1st Year Mathematics MSc Student at Imperial College London_ <br>
 
@@ -33,7 +33,7 @@ Currently working on a documentary series, centered around visualising the impac
 Producing music, often in collaboration with others, of a variety of genres <br>
 You can listen to a few beats I have made [here](https://soundcloud.com/arnav-singh-935815474/sets/if-you-come-up-for-an)
 
-## Experience
+## Experience 🔬
 
 **Founder** | Starting my own small tuition business | _(2017 - Present)_ <br>
 - Centered around tutoring other students for variety of exams, 11+, GCSEs, A-Levels etc.
