@@ -40,7 +40,7 @@ You can listen to a few beats I have made [here](https://soundcloud.com/arnav-si
 - Teaching groups up to 40 students
 - Organisational and financial skills developed
 
-**Pitching** | Meal Prep Company | _(Feb. - March 2020)_
+**Pitching** | Meal Prep Company | _(Feb. - March 2020)_ <br>
 Organised and created a successful business plan and pitch which **secured funding from top venture capitalists.**
 
 
@@ -48,3 +48,10 @@ Organised and created a successful business plan and pitch which **secured fundi
 - Cancer Research UK - Raised money in charity runs
 - The Howard Foundation: Raised money through the NCS foundation, receiving special
 commendations for my Leadership skills
+
+**Skills and Interests**
+
+Languages - English(Native), Hindi (Native), Spanish(A2)
+Programming Languages - Python, JavaScript, R
+Software - Photoshop, After Effects, Premier Pro, Final Cut Pro X
+Interests - Photography, Film-making, Running, Playing Guitar
