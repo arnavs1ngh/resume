@@ -51,7 +51,7 @@ commendations for my Leadership skills
 
 **Skills and Interests**
 
-Languages - English(Native), Hindi (Native), Spanish(A2)
-Programming Languages - Python, JavaScript, R
-Software - Photoshop, After Effects, Premier Pro, Final Cut Pro X
-Interests - Photography, Film-making, Running, Playing Guitar
+Languages - English(Native), Hindi (Native), Spanish(A2) <br>
+Programming Languages - Python, JavaScript, R <br>
+Software - Photoshop, After Effects, Premier Pro, Final Cut Pro X <br>
+Interests - Photography, Film-making, Running, Playing Guitar <br>
