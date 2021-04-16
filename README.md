@@ -30,7 +30,7 @@ Currently working on a documentary series, centered around visualising the impac
 - Using the p5.js library to create data visualisations
 
 **Maths Visualisations** <br>
-If you'd like to see some [visualisations](https://arnavs1ngh.github.io/visuals/) and various animations I have made click the link!
+If you'd like to see some [**visualisations**](https://arnavs1ngh.github.io/visuals/) and various animations I have made click the link!
 
 **Music Production** | _Logic Pro X, Guitar_ | (2018 - Present) <br>
 Producing music, often in collaboration with others, of a variety of genres <br>
