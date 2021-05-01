@@ -19,7 +19,7 @@ A-levels
 GCSEs
   - 8 grade 9s, 1 grade 8,1 grade 7 and an A*
   - Additional Maths FSMQ - A
-  - Participated in super-curriculars sch as UKMT challenges
+  - Participated in super-curriculars such as UKMT challenges
   
 ## Projects 💻
 
