@@ -52,9 +52,18 @@ Organised and created a successful business plan and pitch which **secured fundi
 - The Howard Foundation: Raised money through the NCS foundation, receiving special
 commendations for my Leadership skills
 
-**Skills and Interests**
+**Skills**
 
 Languages - English(Native), Hindi (Native), Spanish(A2) <br>
 Programming Languages - Python, JavaScript, R <br>
 Software - Photoshop, After Effects, Premier Pro, Final Cut Pro X <br>
-Interests - Photography, Film-making, Running, Playing Guitar <br>
+
+**Areas of Interest**
+
+- Photography
+- Finance and Fintech
+- Film-making
+- Guitar + Music Production
+- Tech
+- Enterprise and Entrepreneurship
+- Automation in particular automated foods
