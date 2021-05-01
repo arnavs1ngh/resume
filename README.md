@@ -49,8 +49,7 @@ Organised and created a successful business plan and pitch which **secured fundi
 
 **Volunteering**
 - Cancer Research UK - Raised money in charity runs
-- The Howard Foundation: Raised money through the NCS foundation, receiving special
-commendations for my Leadership skills
+- The Howard Foundation: Raised money through the NCS foundation, **receiving special commendations for my Leadership skills**
 
 **Skills**
 
