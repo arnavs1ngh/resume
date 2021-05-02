@@ -17,7 +17,7 @@ A-levels
 
 **Heckmondwike Grammar School** |_(2013-2018)_ | Heckmondwike, West York. <br>
 GCSEs
-  - 8 grade 9s, 1 grade 8,1 grade 7 and an A*
+  - 8 grade 9s, 1 grade 8, and an A*
   - Additional Maths FSMQ - A
   - Participated in super-curriculars such as UKMT challenges
   
@@ -38,13 +38,13 @@ You can listen to a few beats I have made [here](https://soundcloud.com/arnav-si
 
 ## Experience 🔬
 
-**Founder** | Starting my own small tuition business | _(2017 - Present)_ <br>
-- Centered around tutoring other students for variety of exams, 11+, GCSEs, A-Levels etc.
+**Founder** | Small tuition business | _(2017 - Present)_ <br>
+- Tutoring students for variety of exams, 11+, GCSEs, A-Levels etc.
 - Teaching groups up to 40 students
 - Organisational and financial skills developed
 
 **Pitching** | Meal Prep Company | _(Feb. - March 2020)_ <br>
-Organised and created a successful business plan and pitch which **secured funding from top venture capitalists.**
+Supported creation of a successful business plan and pitch which **secured funding from top VC.**
 
 
 **Volunteering**
@@ -59,10 +59,11 @@ Software - Photoshop, After Effects, Premier Pro, Final Cut Pro X <br>
 
 **Areas of Interest**
 
-- Photography
-- Finance and Fintech
-- Film-making
-- Guitar + Music Production
-- Tech
+- Finance and Fintech - Algorithmic Trading
+-Tech
 - Enterprise and Entrepreneurship
 - Automation in particular automated foods
+- Photography
+- Film-making
+- Guitar + Music Production
+
