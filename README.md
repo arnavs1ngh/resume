@@ -8,8 +8,9 @@ _1st Year Mathematics MSc Student at Imperial College London_ <br>
 
 **Imperial College London** | _(Oct 2020. - Jun 2024.)_ | London <br>
 1st Year Mathematics Student.
-  - Currently on track to achieve a 1st.
-  - Modules: Analysis, Calculus, Probability + Statistics, Linear Algebra + Groups, Applied Maths, Principles of Programming <br>
+  - Achieved 1st Class Honours Year 1
+  - Modules: Analysis, Calculus + Applications, Probability + Statistics, Linear Algebra + Groups,Intro to Applied Maths, Principles of Programming <br>
+  - Spanish (Level 2) - Merit
 
 **Greenhead College** | _(2018-2020)_ | Huddersfield, West York. <br>
 A-levels
