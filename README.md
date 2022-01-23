@@ -10,6 +10,7 @@ _1st Year Mathematics MSc Student at Imperial College London_ <br>
 1st Year Mathematics Student.
   - Achieved 1st Class Honours Year 1
   - Modules: Analysis, Calculus + Applications, Probability + Statistics, Linear Algebra + Groups,Intro to Applied Maths, Principles of Programming <br>
+  - Year 1 Individual Research Project (97%)
   - Spanish (Level 2) - Merit
 
 **Greenhead College** | _(2018-2020)_ | Huddersfield, West York. <br>
